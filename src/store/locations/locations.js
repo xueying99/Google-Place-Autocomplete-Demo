@@ -11,7 +11,7 @@ export function addLocation(location) {
 
 const defaultLocations = [
     {
-        name: 'Kuala Lumpur (example)',
+        name: 'KLCC (Kuala Lumpur Convention Centre), Kuala Lumpur (example)',
     }
 ];
 
